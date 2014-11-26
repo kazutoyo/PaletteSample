@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="big_array_drawable">
+        <item>@drawable/big_1</item>
+        <item>@drawable/big_2</item>
+        <item>@drawable/big_3</item>
+        <item>@drawable/big_4</item>
+        <item>@drawable/big_5</item>
+    </string-array>
+</resources>
